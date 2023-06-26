@@ -1,0 +1,280 @@
+body {
+	background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/floral.gif');
+	background-color:#1e1e1e;
+    color:#FFF;
+    margin: 0;
+    display: table;
+    width: 100%;
+}
+
+#high-scores-personal {
+    text-align: left;
+    margin-left: 10px;
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/stripes.gif');
+    border-collapse: collapse;
+    font-family: "Verdana", serif;
+    font-size: 8pt;
+}
+
+#press {
+
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/marqueebg.gif');
+    background-color: #282828;
+    background-repeat:no-repeat;
+    margin: 0 auto;
+    width: 432px;
+    padding: 0 10px;
+    overflow: hidden; /* clearfix */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#press h2 {
+    color: #c092ff;
+    font-size: 12px;
+    font-style: normal;
+    font-family: "Verdana", serif;
+}
+
+/* The marquee plug-in turns a marquee element into a div */
+#press p, 
+#press marquee, 
+#press div {
+    float: left;
+    width: 419px; /* Container width - heading width - 10px (for some right padding) */
+    margin: 0;
+    padding: 6px 0; /* Again we set the padding in here so as not to cut text */
+    line-height: 1;
+}
+
+/* All the tweets will be links pointing to your page on Twitter */
+#press marquee a, 
+#press div a {
+    font-size: 13px;
+    margin: 0 10px 0 0;
+    color: #FFF;
+    text-decoration: none;
+    font-family: "Verdana", serif;
+}
+
+/* The i is used to display the date of the tweet */
+#press marquee a i, 
+#press div a i {
+    font-size: 13px;
+    font-style: normal;
+    font-family: "Verdana", serif;
+    color: #999;
+}
+
+
+
+
+
+#tweetbg {
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/tweetbg.gif');
+    background-repeat:repeat-x;
+}
+
+#tweetlink {
+    color:#FFF;
+}
+#tweetlink:link {
+    text-decoration: none
+}
+#tweetlink:active {
+    text-decoration: none
+}
+#tweetlink:hover {
+    text-decoration: underline
+}
+
+#tweetmy {
+    padding:4px;
+    vertical-align: middle;
+}
+
+#high-scores-table {
+    text-align: left;
+    margin: 20px 0 0 10px;
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/stripes.gif');
+    border-collapse: collapse;
+    font-family: "Verdana", serif;
+    font-size: 8pt;
+}
+
+.high-score-row:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.high-score-cell {
+    margin: 2px 8px;
+    font-weight: bold;
+}
+
+#content {
+    margin: 0 auto;
+}
+
+#scores {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/stripes.gif');
+    border-collapse: collapse;
+    font-family: "Verdana", serif;
+    font-size: 13pt;
+}
+
+#high-scores-today-table {
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/stripes.gif');
+    border-collapse: collapse;
+    font-family: "Verdana", serif;
+    font-size: 8pt;
+}
+
+img {
+    border: none;
+}
+
+a {
+    border: none;
+}
+
+.socialbutton {
+    color:#c092ff;
+}
+
+.left {
+   margin-right: 10px;
+}
+
+#headerImage {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#hsbutton {
+    margin-top: 5px;
+}
+
+#info {
+    line-height: 12pt;
+    margin-top: 10px;
+    font-family: "Verdana", serif;
+    font-size: 8pt;
+}
+
+#info a {
+    color: #c092ff;
+}
+
+#container {
+    width: 100%;
+    display: table-cell;
+    text-align: center;
+}
+
+#highscore {
+    display: none;
+    background-color: #000;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #FFF;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+#simplemodal-overlay {
+    background-color:#000; 
+}
+
+#hsname {
+    text-align: center;
+    font-size: 15pt;
+    background-color: #000;
+    width: 326px;
+    color: #FFF;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFF;
+}
+
+#content tbody {
+    vertical-align: top;
+}
+
+#canvasBg {
+    width: 465px;
+    height: 466px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    background-image:url('/web/20120630085717im_/http://www.kanyezone.com/images/canvasbg.jpg');
+    background-repeat:no-repeat;
+	-moz-box-shadow: 0 0 5px 5px #222;
+	-webkit-box-shadow: 20px 20px 5px 5px #222;
+	box-shadow: 0 0 20px 5px #111;
+}
+
+#kanyeCanvas {
+    margin-top: 4px;
+    width: 450px;
+    height: 450px;
+    display: inline-block;
+    text-align: left;
+}
+
+.center {
+    display: inline-block;
+    text-align: left;
+}
+
+
+#fb-root div {
+    overflow: hidden ;
+}
+
+.addthis_button_facebook_like {
+    width: 75px;
+}
+
+.addthis_button_google_plusone {
+    width: 30px;
+}
+
+#social-buttons {
+    vertical-align: top;
+}
+
+#twitter-wrapper {
+    margin-top: 15px;
+    text-align: center;
+}
+
+/*
+     FILE ARCHIVED ON 08:57:17 Jun 30, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:46:20 Jun 25, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 94.333
+  exclusion.robots: 0.17
+  exclusion.robots.policy: 0.161
+  cdx.remote: 0.061
+  esindex: 0.009
+  LoadShardBlock: 56.986 (3)
+  PetaboxLoader3.datanode: 85.774 (5)
+  load_resource: 441.42 (2)
+  PetaboxLoader3.resolve: 315.838 (2)
+*/
