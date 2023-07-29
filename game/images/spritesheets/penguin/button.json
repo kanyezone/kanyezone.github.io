@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "button.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 64,
+				"h": 32
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hover_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Idle_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 33,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:36057123b2c8bef46742c359d57e41b6:7cd6c1728c8f41c0134a46ac0e6ffe9e:c39245c3a59c1712d97d26c862b4cbc5$"
+	}
+}

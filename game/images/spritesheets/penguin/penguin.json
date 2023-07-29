@@ -1,0 +1,6152 @@
+{
+	"textures": [
+		{
+			"image": "penguin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 253,
+				"h": 1983
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Snowball_Bottom_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 45,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 45,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 75,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "Snowball_Left_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 47
+					},
+					"frame": {
+						"x": 48,
+						"y": 1,
+						"w": 69,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 64,
+						"h": 52
+					},
+					"frame": {
+						"x": 48,
+						"y": 50,
+						"w": 64,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 45,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 148,
+						"w": 45,
+						"h": 70
+					}
+				},
+				{
+					"filename": "Snowball_Left_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 47
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 68,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 63,
+						"h": 47
+					},
+					"frame": {
+						"x": 189,
+						"y": 1,
+						"w": 63,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 44,
+						"h": 70
+					},
+					"frame": {
+						"x": 48,
+						"y": 104,
+						"w": 44,
+						"h": 70
+					}
+				},
+				{
+					"filename": "Snowball_Left_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 67,
+						"h": 46
+					},
+					"frame": {
+						"x": 114,
+						"y": 50,
+						"w": 67,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Left_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 67,
+						"h": 46
+					},
+					"frame": {
+						"x": 183,
+						"y": 50,
+						"w": 67,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Top_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 2,
+						"w": 43,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 220,
+						"w": 43,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Snowball_Top_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 1,
+						"w": 43,
+						"h": 67
+					},
+					"frame": {
+						"x": 1,
+						"y": 290,
+						"w": 43,
+						"h": 67
+					}
+				},
+				{
+					"filename": "Snowball_Top_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 43,
+						"h": 67
+					},
+					"frame": {
+						"x": 1,
+						"y": 359,
+						"w": 43,
+						"h": 67
+					}
+				},
+				{
+					"filename": "Snowball_Top_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 42,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 428,
+						"w": 42,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Snowball_Top_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 3,
+						"w": 43,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 498,
+						"w": 43,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 45,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 564,
+						"w": 45,
+						"h": 63
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 48,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 629,
+						"w": 48,
+						"h": 62
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 53,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 693,
+						"w": 53,
+						"h": 60
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 755,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 813,
+						"w": 58,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 58,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 869,
+						"w": 58,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 59,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 925,
+						"w": 59,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 61,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 981,
+						"w": 61,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 57,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 1036,
+						"w": 57,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 1092,
+						"w": 57,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 53,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1148,
+						"w": 53,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 53,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 1206,
+						"w": 53,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1262,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Snowball_Top_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 1,
+						"w": 39,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 1317,
+						"w": 39,
+						"h": 66
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 41,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1385,
+						"w": 41,
+						"h": 62
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1449,
+						"w": 42,
+						"h": 59
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 46,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 1510,
+						"w": 46,
+						"h": 58
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 48,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1570,
+						"w": 48,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Snowball_Left_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 4,
+						"w": 46,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 1627,
+						"w": 46,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 43,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 1683,
+						"w": 43,
+						"h": 57
+					}
+				},
+				{
+					"filename": "Snowball_Left_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 4,
+						"w": 40,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1742,
+						"w": 40,
+						"h": 59
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 38,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 1803,
+						"w": 38,
+						"h": 61
+					}
+				},
+				{
+					"filename": "Snowball_Left_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 7,
+						"w": 38,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1866,
+						"w": 38,
+						"h": 59
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 43,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1927,
+						"w": 43,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Dance_041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 44
+					},
+					"frame": {
+						"x": 48,
+						"y": 176,
+						"w": 47,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 44
+					},
+					"frame": {
+						"x": 48,
+						"y": 176,
+						"w": 47,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 46,
+						"y": 222,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 1,
+						"w": 58,
+						"h": 51
+					},
+					"frame": {
+						"x": 46,
+						"y": 275,
+						"w": 58,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 62,
+						"h": 48
+					},
+					"frame": {
+						"x": 46,
+						"y": 328,
+						"w": 62,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 62,
+						"h": 47
+					},
+					"frame": {
+						"x": 46,
+						"y": 378,
+						"w": 62,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Left_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 1,
+						"w": 31,
+						"h": 65
+					},
+					"frame": {
+						"x": 94,
+						"y": 104,
+						"w": 31,
+						"h": 65
+					}
+				},
+				{
+					"filename": "Snowball_Left_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 64,
+						"h": 47
+					},
+					"frame": {
+						"x": 127,
+						"y": 98,
+						"w": 64,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Top_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 18,
+						"w": 59,
+						"h": 48
+					},
+					"frame": {
+						"x": 193,
+						"y": 98,
+						"w": 59,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 64,
+						"h": 40
+					},
+					"frame": {
+						"x": 127,
+						"y": 147,
+						"w": 64,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 58,
+						"h": 44
+					},
+					"frame": {
+						"x": 193,
+						"y": 148,
+						"w": 58,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 28,
+						"h": 48
+					},
+					"frame": {
+						"x": 97,
+						"y": 171,
+						"w": 28,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 63,
+						"h": 44
+					},
+					"frame": {
+						"x": 127,
+						"y": 189,
+						"w": 63,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Top_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 20,
+						"w": 55,
+						"h": 45
+					},
+					"frame": {
+						"x": 192,
+						"y": 194,
+						"w": 55,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Left_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 6,
+						"w": 31,
+						"h": 60
+					},
+					"frame": {
+						"x": 42,
+						"y": 1317,
+						"w": 31,
+						"h": 60
+					}
+				},
+				{
+					"filename": "Snowball_Left_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 6,
+						"w": 34,
+						"h": 60
+					},
+					"frame": {
+						"x": 44,
+						"y": 1379,
+						"w": 34,
+						"h": 60
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 6,
+						"w": 41,
+						"h": 56
+					},
+					"frame": {
+						"x": 45,
+						"y": 1441,
+						"w": 41,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Top_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 8,
+						"w": 38,
+						"h": 56
+					},
+					"frame": {
+						"x": 49,
+						"y": 1499,
+						"w": 38,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 4,
+						"w": 36,
+						"h": 56
+					},
+					"frame": {
+						"x": 51,
+						"y": 1557,
+						"w": 36,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 57,
+						"h": 36
+					},
+					"frame": {
+						"x": 105,
+						"y": 235,
+						"w": 57,
+						"h": 36
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 54,
+						"h": 51
+					},
+					"frame": {
+						"x": 106,
+						"y": 273,
+						"w": 54,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Left_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 53,
+						"h": 48
+					},
+					"frame": {
+						"x": 110,
+						"y": 326,
+						"w": 53,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 62,
+						"h": 46
+					},
+					"frame": {
+						"x": 110,
+						"y": 376,
+						"w": 62,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Top_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 28,
+						"w": 65,
+						"h": 41
+					},
+					"frame": {
+						"x": 164,
+						"y": 241,
+						"w": 65,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Dance_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 162,
+						"y": 284,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 1,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 206,
+						"y": 284,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 39,
+						"h": 48
+					},
+					"frame": {
+						"x": 165,
+						"y": 326,
+						"w": 39,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 206,
+						"y": 336,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Left_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 4,
+						"w": 30,
+						"h": 50
+					},
+					"frame": {
+						"x": 174,
+						"y": 376,
+						"w": 30,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 19,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 206,
+						"y": 383,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Left_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 61,
+						"h": 46
+					},
+					"frame": {
+						"x": 110,
+						"y": 424,
+						"w": 61,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 61,
+						"y": 427,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 31,
+						"h": 51
+					},
+					"frame": {
+						"x": 173,
+						"y": 428,
+						"w": 31,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Top_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 44,
+						"h": 52
+					},
+					"frame": {
+						"x": 206,
+						"y": 430,
+						"w": 44,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Top_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 22,
+						"w": 63,
+						"h": 44
+					},
+					"frame": {
+						"x": 46,
+						"y": 480,
+						"w": 63,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Left_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 1,
+						"w": 42,
+						"h": 52
+					},
+					"frame": {
+						"x": 111,
+						"y": 472,
+						"w": 42,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 16,
+						"w": 39,
+						"h": 36
+					},
+					"frame": {
+						"x": 46,
+						"y": 526,
+						"w": 39,
+						"h": 36
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 24,
+						"w": 39,
+						"h": 56
+					},
+					"frame": {
+						"x": 48,
+						"y": 564,
+						"w": 39,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 41,
+						"h": 53
+					},
+					"frame": {
+						"x": 51,
+						"y": 622,
+						"w": 41,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 1,
+						"w": 38,
+						"h": 52
+					},
+					"frame": {
+						"x": 56,
+						"y": 677,
+						"w": 38,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 12,
+						"w": 45,
+						"h": 48
+					},
+					"frame": {
+						"x": 155,
+						"y": 481,
+						"w": 45,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 44,
+						"h": 49
+					},
+					"frame": {
+						"x": 202,
+						"y": 484,
+						"w": 44,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Top_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 10,
+						"w": 35,
+						"h": 53
+					},
+					"frame": {
+						"x": 59,
+						"y": 731,
+						"w": 35,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 7,
+						"w": 33,
+						"h": 54
+					},
+					"frame": {
+						"x": 61,
+						"y": 786,
+						"w": 33,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 8,
+						"w": 34,
+						"h": 54
+					},
+					"frame": {
+						"x": 61,
+						"y": 842,
+						"w": 34,
+						"h": 54
+					}
+				},
+				{
+					"filename": "Snowball_Top_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 8,
+						"w": 35,
+						"h": 53
+					},
+					"frame": {
+						"x": 62,
+						"y": 898,
+						"w": 35,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Snowball_Top_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 35,
+						"h": 53
+					},
+					"frame": {
+						"x": 64,
+						"y": 953,
+						"w": 35,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Dance_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 64,
+						"y": 1008,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 43,
+						"h": 48
+					},
+					"frame": {
+						"x": 60,
+						"y": 1055,
+						"w": 43,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Dance_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Dance_076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 60,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 39,
+						"h": 49
+					},
+					"frame": {
+						"x": 56,
+						"y": 1151,
+						"w": 39,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 38,
+						"h": 50
+					},
+					"frame": {
+						"x": 56,
+						"y": 1202,
+						"w": 38,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 9,
+						"w": 38,
+						"h": 50
+					},
+					"frame": {
+						"x": 56,
+						"y": 1254,
+						"w": 38,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 5,
+						"w": 33,
+						"h": 52
+					},
+					"frame": {
+						"x": 75,
+						"y": 1306,
+						"w": 33,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 33,
+						"h": 52
+					},
+					"frame": {
+						"x": 80,
+						"y": 1360,
+						"w": 33,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 33,
+						"h": 51
+					},
+					"frame": {
+						"x": 97,
+						"y": 1151,
+						"w": 33,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Top_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 35,
+						"h": 52
+					},
+					"frame": {
+						"x": 96,
+						"y": 1204,
+						"w": 35,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 39,
+						"h": 46
+					},
+					"frame": {
+						"x": 96,
+						"y": 1258,
+						"w": 39,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Top_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 35,
+						"h": 52
+					},
+					"frame": {
+						"x": 110,
+						"y": 1306,
+						"w": 35,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Snowball_Top_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 13,
+						"w": 34,
+						"h": 51
+					},
+					"frame": {
+						"x": 115,
+						"y": 1360,
+						"w": 34,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Idle_Top_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 104,
+						"y": 1105,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Top_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 14,
+						"w": 35,
+						"h": 51
+					},
+					"frame": {
+						"x": 132,
+						"y": 1151,
+						"w": 35,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Top_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 35,
+						"h": 50
+					},
+					"frame": {
+						"x": 133,
+						"y": 1204,
+						"w": 35,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 33,
+						"h": 48
+					},
+					"frame": {
+						"x": 137,
+						"y": 1256,
+						"w": 33,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 33,
+						"h": 51
+					},
+					"frame": {
+						"x": 147,
+						"y": 1306,
+						"w": 33,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 3,
+						"w": 33,
+						"h": 50
+					},
+					"frame": {
+						"x": 151,
+						"y": 1359,
+						"w": 33,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 36,
+						"h": 50
+					},
+					"frame": {
+						"x": 46,
+						"y": 1683,
+						"w": 36,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 8,
+						"w": 36,
+						"h": 50
+					},
+					"frame": {
+						"x": 43,
+						"y": 1742,
+						"w": 36,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 8,
+						"w": 35,
+						"h": 50
+					},
+					"frame": {
+						"x": 41,
+						"y": 1803,
+						"w": 35,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 35,
+						"h": 49
+					},
+					"frame": {
+						"x": 41,
+						"y": 1855,
+						"w": 35,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 1,
+						"w": 33,
+						"h": 49
+					},
+					"frame": {
+						"x": 46,
+						"y": 1906,
+						"w": 33,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 49,
+						"y": 1627,
+						"w": 32,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Left_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 4,
+						"w": 42,
+						"h": 45
+					},
+					"frame": {
+						"x": 89,
+						"y": 526,
+						"w": 42,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 40,
+						"h": 47
+					},
+					"frame": {
+						"x": 89,
+						"y": 573,
+						"w": 40,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Top_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 35,
+						"h": 49
+					},
+					"frame": {
+						"x": 94,
+						"y": 622,
+						"w": 35,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 35,
+						"h": 48
+					},
+					"frame": {
+						"x": 96,
+						"y": 673,
+						"w": 35,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 36,
+						"h": 48
+					},
+					"frame": {
+						"x": 96,
+						"y": 723,
+						"w": 36,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 39,
+						"h": 48
+					},
+					"frame": {
+						"x": 96,
+						"y": 773,
+						"w": 39,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 3,
+						"w": 38,
+						"h": 47
+					},
+					"frame": {
+						"x": 97,
+						"y": 823,
+						"w": 38,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Dance_039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 47,
+						"h": 37
+					},
+					"frame": {
+						"x": 133,
+						"y": 531,
+						"w": 47,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Dance_040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 47,
+						"h": 37
+					},
+					"frame": {
+						"x": 182,
+						"y": 535,
+						"w": 47,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 39,
+						"h": 47
+					},
+					"frame": {
+						"x": 99,
+						"y": 872,
+						"w": 39,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Dance_043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 47,
+						"h": 37
+					},
+					"frame": {
+						"x": 133,
+						"y": 570,
+						"w": 47,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Snowball_Top_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 42,
+						"h": 44
+					},
+					"frame": {
+						"x": 131,
+						"y": 609,
+						"w": 42,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 45,
+						"h": 38
+					},
+					"frame": {
+						"x": 182,
+						"y": 574,
+						"w": 45,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Dance_083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 42,
+						"h": 39
+					},
+					"frame": {
+						"x": 175,
+						"y": 614,
+						"w": 42,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Dance_084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 42,
+						"h": 39
+					},
+					"frame": {
+						"x": 175,
+						"y": 614,
+						"w": 42,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Snowball_Top_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 33,
+						"h": 48
+					},
+					"frame": {
+						"x": 219,
+						"y": 614,
+						"w": 33,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 42,
+						"h": 43
+					},
+					"frame": {
+						"x": 133,
+						"y": 655,
+						"w": 42,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 177,
+						"y": 655,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Top_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 33,
+						"h": 46
+					},
+					"frame": {
+						"x": 219,
+						"y": 664,
+						"w": 33,
+						"h": 46
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 15,
+						"w": 40,
+						"h": 45
+					},
+					"frame": {
+						"x": 134,
+						"y": 700,
+						"w": 40,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 700,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 700,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 700,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Left_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 7,
+						"w": 33,
+						"h": 45
+					},
+					"frame": {
+						"x": 219,
+						"y": 712,
+						"w": 33,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 742,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 742,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 41,
+						"h": 40
+					},
+					"frame": {
+						"x": 176,
+						"y": 742,
+						"w": 41,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 33,
+						"h": 43
+					},
+					"frame": {
+						"x": 219,
+						"y": 759,
+						"w": 33,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 37,
+						"h": 43
+					},
+					"frame": {
+						"x": 137,
+						"y": 747,
+						"w": 37,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 15,
+						"w": 39,
+						"h": 45
+					},
+					"frame": {
+						"x": 137,
+						"y": 792,
+						"w": 39,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Snowball_Left_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 5,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 178,
+						"y": 784,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 18,
+						"w": 33,
+						"h": 42
+					},
+					"frame": {
+						"x": 219,
+						"y": 804,
+						"w": 33,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 11,
+						"w": 39,
+						"h": 39
+					},
+					"frame": {
+						"x": 178,
+						"y": 829,
+						"w": 39,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 18,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 219,
+						"y": 848,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 140,
+						"y": 839,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Dance_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 140,
+						"y": 882,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 5,
+						"w": 35,
+						"h": 44
+					},
+					"frame": {
+						"x": 182,
+						"y": 870,
+						"w": 35,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 18,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 219,
+						"y": 891,
+						"w": 33,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 8,
+						"w": 35,
+						"h": 39
+					},
+					"frame": {
+						"x": 182,
+						"y": 916,
+						"w": 35,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 219,
+						"y": 933,
+						"w": 33,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 148,
+						"y": 926,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 148,
+						"y": 926,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 101,
+						"y": 921,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 8,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 101,
+						"y": 965,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Dance_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 34,
+						"h": 45
+					},
+					"frame": {
+						"x": 103,
+						"y": 1008,
+						"w": 34,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 34,
+						"h": 45
+					},
+					"frame": {
+						"x": 103,
+						"y": 1008,
+						"w": 34,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 29,
+						"h": 48
+					},
+					"frame": {
+						"x": 105,
+						"y": 1055,
+						"w": 29,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Dance_082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 41,
+						"h": 38
+					},
+					"frame": {
+						"x": 143,
+						"y": 971,
+						"w": 41,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Idle_Bottom_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 139,
+						"y": 1011,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 186,
+						"y": 957,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 6,
+						"w": 27,
+						"h": 48
+					},
+					"frame": {
+						"x": 136,
+						"y": 1055,
+						"w": 27,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 34,
+						"h": 44
+					},
+					"frame": {
+						"x": 148,
+						"y": 1105,
+						"w": 34,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Walk_Left_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 49
+					},
+					"frame": {
+						"x": 165,
+						"y": 1053,
+						"w": 30,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Walk_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 29,
+						"h": 49
+					},
+					"frame": {
+						"x": 169,
+						"y": 1151,
+						"w": 29,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 29,
+						"h": 48
+					},
+					"frame": {
+						"x": 170,
+						"y": 1202,
+						"w": 29,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Dance_033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 34,
+						"h": 45
+					},
+					"frame": {
+						"x": 184,
+						"y": 1104,
+						"w": 34,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 34,
+						"h": 45
+					},
+					"frame": {
+						"x": 184,
+						"y": 1104,
+						"w": 34,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Dance_035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 220,
+						"y": 975,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 220,
+						"y": 975,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Idle_Bottom_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 220,
+						"y": 1020,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 1,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 186,
+						"y": 1002,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 2,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 220,
+						"y": 1065,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 220,
+						"y": 1110,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Left_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 8,
+						"w": 27,
+						"h": 48
+					},
+					"frame": {
+						"x": 172,
+						"y": 1252,
+						"w": 27,
+						"h": 48
+					}
+				},
+				{
+					"filename": "Walk_Top_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 200,
+						"y": 1155,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Left_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 5,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 201,
+						"y": 1200,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Top_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 201,
+						"y": 1245,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Dance_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 28,
+						"h": 47
+					},
+					"frame": {
+						"x": 182,
+						"y": 1302,
+						"w": 28,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Dance_060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 28,
+						"h": 47
+					},
+					"frame": {
+						"x": 182,
+						"y": 1302,
+						"w": 28,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Walk_Top_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 212,
+						"y": 1290,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Top_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 212,
+						"y": 1335,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Dance_086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 42,
+						"h": 39
+					},
+					"frame": {
+						"x": 186,
+						"y": 1379,
+						"w": 42,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Dance_087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 42,
+						"h": 39
+					},
+					"frame": {
+						"x": 186,
+						"y": 1379,
+						"w": 42,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Dance_088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 42,
+						"h": 39
+					},
+					"frame": {
+						"x": 186,
+						"y": 1379,
+						"w": 42,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Dance_034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 27,
+						"h": 47
+					},
+					"frame": {
+						"x": 88,
+						"y": 1414,
+						"w": 27,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Dance_078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 27,
+						"h": 47
+					},
+					"frame": {
+						"x": 88,
+						"y": 1414,
+						"w": 27,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Idle_Top_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 34,
+						"h": 45
+					},
+					"frame": {
+						"x": 117,
+						"y": 1413,
+						"w": 34,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Walk_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 47
+					},
+					"frame": {
+						"x": 153,
+						"y": 1411,
+						"w": 30,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 185,
+						"y": 1420,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 117,
+						"y": 1460,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Dance_085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 41,
+						"h": 38
+					},
+					"frame": {
+						"x": 161,
+						"y": 1462,
+						"w": 41,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Idle_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 27,
+						"h": 47
+					},
+					"frame": {
+						"x": 204,
+						"y": 1462,
+						"w": 27,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Walk_Top_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 89,
+						"y": 1502,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Walk_Top_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 89,
+						"y": 1546,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 131,
+						"y": 1502,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 30,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 1502,
+						"w": 30,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Left_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 5,
+						"w": 39,
+						"h": 42
+					},
+					"frame": {
+						"x": 131,
+						"y": 1547,
+						"w": 39,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 7,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 172,
+						"y": 1548,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 39,
+						"h": 38
+					},
+					"frame": {
+						"x": 89,
+						"y": 1590,
+						"w": 39,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 11,
+						"w": 41,
+						"h": 38
+					},
+					"frame": {
+						"x": 130,
+						"y": 1591,
+						"w": 41,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 83,
+						"y": 1630,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Bottom_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 42
+					},
+					"frame": {
+						"x": 124,
+						"y": 1631,
+						"w": 39,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 173,
+						"y": 1591,
+						"w": 38,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Walk_Bottom_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 42
+					},
+					"frame": {
+						"x": 165,
+						"y": 1631,
+						"w": 39,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 42
+					},
+					"frame": {
+						"x": 84,
+						"y": 1675,
+						"w": 39,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Left_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 6,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 125,
+						"y": 1675,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Snowball_Left_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 6,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 166,
+						"y": 1675,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Bottom_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 213,
+						"y": 1511,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Bottom_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 213,
+						"y": 1554,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Snowball_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 8,
+						"w": 39,
+						"h": 40
+					},
+					"frame": {
+						"x": 213,
+						"y": 1597,
+						"w": 39,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Bottom_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 39,
+						"h": 40
+					},
+					"frame": {
+						"x": 84,
+						"y": 1719,
+						"w": 39,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Bottom_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 39,
+						"h": 40
+					},
+					"frame": {
+						"x": 125,
+						"y": 1718,
+						"w": 39,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 38,
+						"h": 40
+					},
+					"frame": {
+						"x": 166,
+						"y": 1718,
+						"w": 38,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 38,
+						"h": 40
+					},
+					"frame": {
+						"x": 81,
+						"y": 1761,
+						"w": 38,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Bottom_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 78,
+						"y": 1803,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Walk_Bottom_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 42
+					},
+					"frame": {
+						"x": 78,
+						"y": 1847,
+						"w": 37,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Snowball_Top_Left_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 34,
+						"h": 44
+					},
+					"frame": {
+						"x": 81,
+						"y": 1891,
+						"w": 34,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Sit_Bottom_Left_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 81,
+						"y": 1937,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Walk_Left_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 28,
+						"h": 47
+					},
+					"frame": {
+						"x": 117,
+						"y": 1803,
+						"w": 28,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Walk_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 27,
+						"h": 47
+					},
+					"frame": {
+						"x": 117,
+						"y": 1852,
+						"w": 27,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 34,
+						"h": 44
+					},
+					"frame": {
+						"x": 117,
+						"y": 1901,
+						"w": 34,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 18,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 121,
+						"y": 1761,
+						"w": 32,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Snowball_Left_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 7,
+						"w": 37,
+						"h": 41
+					},
+					"frame": {
+						"x": 155,
+						"y": 1760,
+						"w": 37,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Top_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 37,
+						"h": 41
+					},
+					"frame": {
+						"x": 147,
+						"y": 1803,
+						"w": 37,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 194,
+						"y": 1760,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 38,
+						"h": 39
+					},
+					"frame": {
+						"x": 186,
+						"y": 1804,
+						"w": 38,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Walk_Bottom_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 38,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 37,
+						"h": 40
+					},
+					"frame": {
+						"x": 206,
+						"y": 1718,
+						"w": 37,
+						"h": 40
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 34,
+						"h": 44
+					},
+					"frame": {
+						"x": 146,
+						"y": 1852,
+						"w": 34,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Walk_Left_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 29,
+						"h": 43
+					},
+					"frame": {
+						"x": 153,
+						"y": 1898,
+						"w": 29,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 34,
+						"h": 39
+					},
+					"frame": {
+						"x": 153,
+						"y": 1943,
+						"w": 34,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 182,
+						"y": 1846,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Walk_Left_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 184,
+						"y": 1891,
+						"w": 30,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Top_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 37,
+						"h": 41
+					},
+					"frame": {
+						"x": 189,
+						"y": 1934,
+						"w": 37,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Walk_Top_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 39,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 29,
+						"h": 41
+					},
+					"frame": {
+						"x": 214,
+						"y": 1845,
+						"w": 29,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Sit_Top_Left_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 216,
+						"y": 1888,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Snowball_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 37,
+						"h": 38
+					},
+					"frame": {
+						"x": 207,
+						"y": 1639,
+						"w": 37,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Snowball_Bottom_Left_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 10,
+						"w": 37,
+						"h": 37
+					},
+					"frame": {
+						"x": 207,
+						"y": 1679,
+						"w": 37,
+						"h": 37
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6f6d1db392f9134010a9b2395034ce99:3d162ee72fcbe0404e8403e129e47432:6811a9a90bad8562d7be890a479a72ac$"
+	}
+}
